@@ -1,7 +1,6 @@
 # SOI-1.0
-# Project Name
 
-One Paragraph of project description goes here
+This project is the toolkit of similar object interference challenge for visual object tracking.
 
 ## Getting Started
 
